@@ -1,0 +1,13 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  fabrikamfiber.web:
+    build:
+      context: C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.Web
+      dockerfile: Dockerfile
+    image: fabrikamfiber.web
+    ports:
+    - 80/tcp
+version: '3.0'

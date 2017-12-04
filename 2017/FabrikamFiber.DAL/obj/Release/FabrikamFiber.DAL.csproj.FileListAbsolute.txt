@@ -1,0 +1,10 @@
+C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.DAL\bin\Release\FabrikamFiber.DAL.dll.config
+C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.DAL\bin\Release\FabrikamFiber.DAL.dll
+C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.DAL\bin\Release\FabrikamFiber.DAL.pdb
+C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.DAL\bin\Release\EntityFramework.dll
+C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.DAL\bin\Release\EntityFramework.xml
+C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.DAL\obj\Release\FabrikamFiber.DAL.csproj.CoreCompileInputs.cache
+C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.DAL\obj\Release\FabrikamFiber.DAL.dll
+C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.DAL\obj\Release\FabrikamFiber.DAL.pdb

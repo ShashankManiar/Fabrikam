@@ -1,0 +1,25 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  fabrikamfiber.web:
+    build:
+      args:
+        source: obj/Docker/empty/
+      context: C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.Web
+      dockerfile: Dockerfile
+    entrypoint: cmd /c "start /B C:\\ServiceMonitor.exe w3svc & C:\\remote_debugger\\x64\\msvsmon.exe
+      /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn
+      /nowowwarn /timeout:2147483646"
+    image: fabrikamfiber.web:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.program: C:\app\bin\FabrikamFiber.Web.dll
+      com.microsoft.visualstudio.debuggee.workingdirectory: C:\app
+    ports:
+    - 80/tcp
+    volumes:
+    - C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.Web:C:\inetpub\wwwroot:rw
+    - C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\Remote
+      Debugger:C:\remote_debugger:ro
+version: '3.0'

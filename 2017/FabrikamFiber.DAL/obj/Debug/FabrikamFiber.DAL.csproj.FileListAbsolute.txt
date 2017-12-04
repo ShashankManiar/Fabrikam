@@ -1,0 +1,13 @@
+C:\Users\shmaniar\Source\Repos\fabrikam\2017\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll.config
+C:\Users\shmaniar\Source\Repos\fabrikam\2017\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll
+C:\Users\shmaniar\Source\Repos\fabrikam\2017\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.pdb
+C:\Users\shmaniar\Source\Repos\fabrikam\2017\FabrikamFiber.DAL\bin\Debug\EntityFramework.dll
+C:\Users\shmaniar\Source\Repos\fabrikam\2017\FabrikamFiber.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shmaniar\Source\Repos\fabrikam\2017\FabrikamFiber.DAL\bin\Debug\EntityFramework.xml
+C:\Users\shmaniar\Source\Repos\fabrikam\2017\FabrikamFiber.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shmaniar\Source\Repos\fabrikam\2017\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csprojResolveAssemblyReference.cache
+C:\Users\shmaniar\Source\Repos\fabrikam\2017\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.csproj.CoreCompileInputs.cache
+C:\Users\shmaniar\Source\Repos\fabrikam\2017\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.dll
+C:\Users\shmaniar\Source\Repos\fabrikam\2017\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.pdb
+C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll.CodeAnalysisLog.xml
+C:\Users\shmaniar\source\repos\fabrikam\2017\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll.lastcodeanalysissucceeded
